@@ -29,7 +29,7 @@ docs/        thesis proposal (PDF)
 | `cluster_kmeans_topic_modeling.ipynb` | A second version of `cluster.ipynb` |
 | `tfidf_similarity.ipynb` | TF-IDF and k-means clusters, sentiment by cluster, and each review's cosine similarity to its cluster center |
 | `new_pca.ipynb` | Bag-of-words (n-gram) PCA of the reviews |
-| `bow_pca.ipynb` | A second version of the PCA; saves the PC1 and PC2 figures in `figures/` |
+| `bow_pca.ipynb` | A second version of the PCA; makes `combined_pca_terms.png` |
 
 ## Scripts
 
