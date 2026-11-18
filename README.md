@@ -1,6 +1,6 @@
 # How U.S. Google reviews frame Chinese and Japanese cuisines
 
-Replication materials for my MACS 40123 project.
+Replication materials for my school project.
 
 ## Data
 
